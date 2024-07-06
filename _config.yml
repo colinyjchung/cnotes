@@ -22,7 +22,7 @@ title: C-Notes
 email: colin [at] colincopy [dot] com 
 description: >- # this means to ignore newlines until "baseurl:"
   Random Notes from Colin Y.J. Chung
-baseurl: "/cnotes/"
+baseurl: ""
 url: "https://colinyjchung.github.io/cnotes"
 twitter_username: colinyjchung
 github_username:  colinyjchung
