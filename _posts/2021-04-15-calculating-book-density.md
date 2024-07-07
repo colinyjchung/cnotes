@@ -2,7 +2,7 @@
 layout: post
 title:  "Calculating Book Density"
 date:   2021-04-15
-categories: taxonomy, reading
+categories: taxonomy reading
 tags: reading
 ---
 We’ve all heard of terms like “light reading” or a “heavy book”. And most people have a good idea of what that means. It’s how “dense” a book is.
