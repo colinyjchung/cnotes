@@ -1,15 +1,19 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+Hi, I'm Colin Y.J. Chung. I'm a co-founder of Plural Inc., a portfolio of businesses that include: [Plural Healthcare](http://pluralhealthcare.com), a marketing agency, and a digital media company.
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+**As a copywriter and consultant:** I've hired, trained, and written direct response copy for over 15 years in the nutraceutical, financial publishing, and creator space. Clients include Agora, Jim Kwik, and Brian Tracy. Funnels I've written and consulted on has generated over $250M in direct revenue. Between 2014-2020, I was the lead teacher and coach for John Carlton's "Simple Writing System". I've built, managed, and trained copy teams at six different companies.
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+Based in the suburbs of Vancouver B.C., I'm a father of three monsters, I speak pop culture fluently, and I'm currently obsessed with 16th C. history (the Renaissance & Reformation) as research for a fiction project.
 
-Thanks for reading!
+Here's what clients have said about me...
+
+> Colin is one of the first people I think of when I need help with copywriting. I've been working with him for over a decade now. - Jim Kwik
+> Thank you Colin for your brilliant strategic mind, your amazing writing skills, your caring heart. - Christine Kloser
+> He brings tremendous raw talent to the game. - John Carlton
+> Thanks again for this extraordinary bit of craftsmanship. You're a master at what you do and I'm deeply appreciative of your generosity. - Gary Goldstein
+> You are always a brain worth tapping into. - Brian Kurtz
