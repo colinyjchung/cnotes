@@ -18,9 +18,15 @@ Based in the suburbs of Vancouver B.C., I'm a father of three monsters, I speak 
 
 ![Colin at Office](https://raw.githubusercontent.com/colinyjchung/cnotes/main/assets/CMPNY-Colin.jpeg)
 
-**As a copywriter and consultant:** I've hired, trained, and written direct response copy for over 15 years in the nutraceutical, financial publishing, and creator space. Clients include Agora, Jim Kwik, and Brian Tracy. Funnels I've written and consulted on has generated over $250M in direct revenue. Between 2014-2020, I was the lead teacher and coach for John Carlton's "Simple Writing System". I've built, managed, and trained copy teams at six different companies.
+## As a Copywriter and Consultant 
 
-Here's what clients have said about me...
+I've hired, trained, and written direct response copy for over 15 years in the nutraceutical, financial publishing, and creator space. Some of my clients include Agora Financial, Truegenics, Pineapple, Reboot Marketing, Weiss Research, Investing Daily, Mike Koenigs, Ava Jane Kitchens, Brian Tracy, and Jim Kwik. Funnels, VSLs, and webinars I've written (and consulted on) have driven an estimated $250 million total in direct sales.
+
+Between 2014-2020, I was the primary coach for John Carlton's _Simple Writing System_, a cohort-based copywriting course. I've trained hundreds of business owners, entrepreneurs, and freelancers how to write direct response copy. I've also recruited, built, and managed copy teams at six different companies. I've had titles like "Copy Chief", "Copy Coach", and "Director of Copy".
+
+I'm currently "Head of Copy Operations" at Tried and True Media.
+
+## Here's what clients have said about me
 
 * _"Colin is one of the first people I think of when I need help with copywriting. I've been working with him for over a decade now."_ <br/> - **Jim Kwik**
 * _"Thank you Colin for your brilliant strategic mind, your amazing writing skills, your caring heart."_ <br/> - **Christine Kloser**
@@ -32,3 +38,7 @@ Here's what clients have said about me...
 * _"Colin’s support helped us build from nothing to a list of 32,000 in just two months."_ <br/> _
 **Ocean Robbins**
 * _"You are always a brain worth tapping into."_ <br/> - **Brian Kurtz**
+
+## Podcast & Virtual Event Appearances
+
+I have spoken on podcasts and at virtual events sharing my expertise as a marketer, copywriter, and freelancer. Appearances include AWAI Bootcamps, Kevin Roger's _Copy Chief Radio Podcast_, and Alex Cattoni's _Copy Posse_. If you'd like me to speak at your event or on your podcast, please email me directly at colin [at] colincopy [dot] com with your audience size and per episode downloads.
