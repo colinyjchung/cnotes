@@ -2,7 +2,7 @@
 layout: post
 title:  "Measuring Book Depth"
 date:   2021-04-15
-categories: taxonomy, reading
+categories: taxonomy reading
 tags: reading
 ---
 When someone says a book “changed their life”, what does that mean exactly?
