@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "One Most Step"
+title: "One More Step"
 permalink: /almost/
 ---
 Thank you for subscribing to C-Notes, where I send you random updates.
