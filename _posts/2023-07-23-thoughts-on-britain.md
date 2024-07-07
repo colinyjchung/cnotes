@@ -3,7 +3,7 @@ layout: post
 title:  "Random Thoughts on Britain"
 date:   2023-07-23
 categories: travel
-tags: glasgow, edinburgh, cillian murphy, inverness, scotland
+tags: glasgow edinburgh cillian-murphy inverness scotland
 ---
 * I am not a big man. Average size. I'm 5'8", 155lbs (sorry, 11 stone). And yet everything is too small, too little, too short. The staircases. The shower head height. The door frames. Or this obseveration is incorrect and the inverse. Everything in America, and subsequently Canada where I live, is unnecessarily too big and I've grown used to it. Do I need all that space? Doesn't matter. We have it.
 * Doors in Europe don't open fully because the floors are uneven. The floors are uneven because it's hundreds of years old and nobody bothered levelling it and just pasted laminate on top of it. So you have natural doorstoppers.
