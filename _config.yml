@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: hitchens-theme
+theme: hitchens
 ignore_theme_config: true
 plugins:
   - jekyll-feed
