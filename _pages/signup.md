@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Get C-Notes in Your Inbox"
+title: "Sign Up for C-Notes"
 permalink: /signup/
 ---
 <center>
