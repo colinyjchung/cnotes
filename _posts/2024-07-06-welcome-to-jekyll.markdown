@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-date:   2024-07-06 20:08:14 -0700
-categories: jekyll update
+date:   2024-07-06
+categories: jekyll
+tags: test
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
@@ -35,6 +36,14 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 1. One
 2. Two
 3. Three
+
+| asdf | asdf | wqtre |
+| --- | --- | --- |
+| block | cube | sphere |
+| nope | yep | hells no |
+| 1 | 2 | 3 |
+
+'asdf' code
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
