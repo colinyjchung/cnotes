@@ -12,22 +12,13 @@ Based in the suburbs of Vancouver B.C., I'm a father of three monsters, I speak 
 
 Here's what clients have said about me...
 
-> Colin is one of the first people I think of when I need help with copywriting. I've been working with him for over a decade now.
-
-Jim Kwik
-
-> Thank you Colin for your brilliant strategic mind, your amazing writing skills, your caring heart.
-
-Christine Kloser
-
-> He brings tremendous raw talent to the game.
-
-John Carlton
-
-> Thanks again for this extraordinary bit of craftsmanship. You're a master at what you do and I'm deeply appreciative of your generosity.
-
-Gary Goldstein
-
-> You are always a brain worth tapping into.
-
-Brian Kurtz
+* _"Colin is one of the first people I think of when I need help with copywriting. I've been working with him for over a decade now."_ - **Jim Kwik**
+* _"Thank you Colin for your brilliant strategic mind, your amazing writing skills, your caring heart."_ - **Christine Kloser**
+* _"He brings tremendous raw talent to the game."_ - **John Carlton**
+* _"I love this copy! [Project] has become our direct mail control! The ROI is nearly double that of the old control."_ - **Clayton Makepeace**
+* _"Not only does his copy covert and make you money, Colin writes in your voice talking to your tribe so you create a real, authentic connection with your customers."_ - **Arielle Ford**
+* _"Thanks again for this extraordinary bit of craftsmanship. You're a master at what you do and I'm deeply appreciative of your generosity."_ - **Gary Goldstein**
+* _"Within the first day I saw a huge jump in our conversion rate. In 4 months I made back my investment with him and now everything is pure profit. Colin is the best investment I’ve made"_ - **Bob Grant**
+* "Colin’s support helped us build from nothing to a list of 32,000 in just two months."
+**Ocean Robbins**
+* _"You are always a brain worth tapping into."_ - **Brian Kurtz**
