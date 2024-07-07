@@ -30,7 +30,7 @@ I'm currently "Head of Copy Operations" at Tried and True Media.
 
 * _"Colin is one of the first people I think of when I need help with copywriting. I've been working with him for over a decade now."_ <br/> - **Jim Kwik**
 * _"Thank you Colin for your brilliant strategic mind, your amazing writing skills, your caring heart."_ <br/> - **Christine Kloser**
-* _"He brings tremendous raw talent to the game."_ - **John Carlton**
+* _"He brings tremendous raw talent to the game."_ <br/> - **John Carlton**
 * _"I love this copy! [Project] has become our direct mail control! The ROI is nearly double that of the old control."_ <br/> - **Clayton Makepeace**
 * _"Not only does his copy covert and make you money, Colin writes in your voice talking to your tribe so you create a real, authentic connection with your customers."_ <br/> - **Arielle Ford**
 * _"Thanks again for this extraordinary bit of craftsmanship. You're a master at what you do and I'm deeply appreciative of your generosity."_ <br/> - **Gary Goldstein**
