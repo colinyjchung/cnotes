@@ -8,11 +8,11 @@ Hi, I'm Colin Y.J. Chung.
 
 I'm "Head of Copy Operations" at Tried and True Media, the editor of [_Battlefield Briefs_](https://battlefieldbriefs.com), a newsletter for Veteran Service Organizations helping disabled veterans appeal the V.A., and co-founder of [Plural Healthcare](http://pluralhealthcare.com), an intensive outpatient program (IOP) facility.
 
-OMFG, that's a lot of gobblygook. Here's what it actually means:
+_OMFG_, that's a lot of gobblygook, isn't it? Here's what it actually means:
 
 * I build systems, training, and processes to "tame the chaos" at an ad agency
 * I show disabled veterans how to avoid legal traps and get disability benefits
-* My mental health facility helps people get back on their feet with intense 3X/week group therapy
+* My mental health facility helps people get back on their feet with intense 3-4X/week group therapy
 
 Based in the suburbs of Vancouver B.C., I'm a father of three monsters, I speak pop culture fluently, and sneak in moments whenever I can to write [fiction](http://jinnzhong.com).
 
