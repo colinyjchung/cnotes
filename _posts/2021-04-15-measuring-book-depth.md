@@ -27,7 +27,7 @@ While these books of wisdom can be summarized to their core ideas… oftentimes,
 
 OK, so how would I rank a book's depth level from 1 to 5?
 
-## Measuring Book Dept
+## Measuring Book Depth
 
 ### Books in the 4.0 - 5.0 range
 
