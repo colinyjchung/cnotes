@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Random Thoughts on Britain"
+date:   2023-07-23
+categories: travel
+tags: glasgow, edinburgh, cillian murphy, inverness, scotland
+---
+* I am not a big man. Average size. I'm 5'8", 155lbs (sorry, 11 stone). And yet everything is too small, too little, too short. The staircases. The shower head height. The door frames. Or this obseveration is incorrect and the inverse. Everything in America, and subsequently Canada where I live, is unnecessarily too big and I've grown used to it. Do I need all that space? Doesn't matter. We have it.
+* Doors in Europe don't open fully because the floors are uneven. The floors are uneven because it's hundreds of years old and nobody bothered levelling it and just pasted laminate on top of it. So you have natural doorstoppers.
+* I wish every AirBnB and VRBO would give clearer instructions on how to recycle for the snowflake Libtards like me and my family who still want to recycle even on vacation.
+* OK Europe, I get it. You're better at fighting climate change than us, nobody has a machine dryer and air dries their clothes.
+* Thank you to all the previous tenants (and/or hosts) who left their Netflix logged in so I didn't have to find mine.
+* Edinburgh is like every urban fantasy RPG setting. Infinite steps through narrow alleyways everywhere, streets that curve and turn and end for no apparent reason. Little shops and hidden courtyards and layouts that don't make any sense. The urban planning is a complete mess, or it's a forcing function for you to explore and discover.
+* Is Cillian Murphy on the same level as James Dean and Marilyn Monroe? My Inverness AirBnB seems to think so. He has mirror framed photographs of the three plus one of Murphy with the gang from Peaky Blinders. I mean, yes, he finally gets to lead in a Nolan film, of which I already have my IMAX tickets bought and reserved. I think my Inverness host just loves Peaky Blinders.
+* Hosts of a TV show in Britain regardless of reality shows, product reviews, or talk shows are (from what I've seen) a black man and a white woman. Hits two minorities while retaining something white. This is the way.
+* Why am I paying 50p to use a public washroom? Wait, you have tap? You want me to tap my credit card, which Visa/Mastercard will take a large percentage of your 50p just so you can keep unruly, smelly people out?
+* Where are the goddamn public trashcans (sorry litter bins). I just want to throw my garbage away. In every North American city, there's one every block. Not here. Especially not in food courts. No, London wants you to leave it out for their cleaners to pick it up for you. With that said though, my wife did point out that at Coquitlam Centre and other malls now... we're going the same route. There's always someone taking your garbage to sort now.
+* Five cities was ambitious. In these previous two-and-a-half-week trips pre-pandemic, we typically headquartered at one city and made day trips out. I had forgotten how much travel is a game of logistics. Planning, making sure there's just the right amount of clothes to wear without ending up with too much luggage, meals, public transportation, deciphering subway lines, following AirBnB/VRBO lockbox instructions.
+* I did not see the Loch Ness monster. But I definitely saw a lot of sheep. Apparently there are 36M sheep to 5M scots right now. Oh and hairy Highland cows. They have bangs. They must be going through something.
+* I touched one of the stones at Clava Cairn. I am still here in 2023. I want a refund, Diana Galbadon.
+* I get a sense a lot of Scots are still upset about their failed Jacobite rebellion in the 1700s just like how the Quebecois are still upset they got absorbed into the rest of Canada.
+* The ability to train to any part of Great Britain is the best thing ever. America really needs this beyond the Northeast Corridor and/or a major upgrade to Amtrak, but will never admit to it.
+* Glasgow reminds me of Vancouver. Yes, it's old like most major European cities... but it doesn't feel old aside from a few buildings here and there. There's a lot more new than old, and more skyscrapers than other European cities. There isn't a ton of super old stuff here. There's the Glasgow cathedral, but that's really it. Maybe it's because Glasgow didn't really start ramping up and growing until after the Union of 1707. By which point, it urbanized and did what every other North American city did, which was planned via the really boring grid-iron street plan. Perpedicular horizontal and vertical streets. In other words, it's modern because most of it is.
+* There are claims that Britain has the best curry in the world. I can verify this as of tonight. If you ever find yourself in Glasgow, go to [_Obsession of India_](https://www.obsessionofindia.co.uk@blank) on High Street.
+* Inverness may be the most Northernmost and also the least populated city I've ever slept in. There are two malls here and both feel like Kingsgate Mall (that's a Vancouver reference). It's got 15-20 shops at most and everything closes early. What makes the two malls in Inverness even more eerie is that they're all staffed by middle-aged men. Greeting card shop, toy store, HMV? All middle-aged men.
+* Poundland. It took me a minute to translate that in my head into Dollar Store.
+* There's so much constant live music in Scotland. Just everywhere. Outdoor concerts, clubs, buskers. Made me realize I haven't been to a live concert post-pandemic. Musicals, plays, orchestra, and live shows yes... but not a rock concert. Weird.
+* I am loving the 15-20°C (60-68°F) weather in Scotland. This is my jam and my temperature. I am not looking forward to going home to the Vancouver summer of 25-30°C (77-86°F).
