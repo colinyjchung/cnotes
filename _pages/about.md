@@ -12,7 +12,7 @@ _OMFG_, that's a lot of gobblygook, isn't it? Here's what it actually means:
 
 * I build systems, training, and processes to "tame the chaos" at an ad agency
 * I show disabled veterans how to avoid legal traps and get disability benefits
-* My mental health facility helps people get back on their feet with intense 3-4X/week group therapy
+* My mental health company gets people back on their feet with 3-4X/week group therapy
 
 Based in the suburbs of Vancouver B.C., I'm a father of three monsters, I speak pop culture fluently, and sneak in moments whenever I can to write [fiction](http://jinnzhong.com).
 
