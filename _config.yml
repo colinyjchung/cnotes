@@ -27,16 +27,31 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://notes.colinchung.com" # the base hostname & protocol for your site, e.g. http://example.com
 hide_credits: true
 
-# Build settings
-remote_theme: chesterhow/tale
+# Author
+author:
+  name: Colin Y.J. Chung
+  url: https://colinchung.com
 
+# Build settings
+markdown: kramdown
+include:
+  - _pages
+
+# Assets
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Permalinks
 permalink:    /:year-:month-:day/:title
 paginate:     5
 
+# Gems
 plugins:
   - jekyll-feed
   - jekyll-paginate
-  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jemoji
 
 # Exclude from processing.
 # The following items will not be processed, by default.
