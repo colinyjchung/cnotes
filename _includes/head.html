@@ -16,8 +16,7 @@
   <!-- RSS -->
   {% feed_meta %}
 
-  <!-- Google Analytics-->
-  {% if site.google_analytics and jekyll.environment == 'production' %}
-  {% include analytics.html %}
-  {% endif %}
+  <!-- Plausibe Analytics-->
+  <script defer data-domain="notes.colinchung.com" src="https://plausible.io/js/script.js"></script>
+
 </head>
