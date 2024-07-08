@@ -15,7 +15,7 @@ I did this for two reasons. One, as you know, there are a lot of self-help and
 
 Here's how I would weight book density:
 
-## Weighing Book Density (Super Geeky Stuff)
+## Weighing Book Density
 
 ### Books with 5.0 Density
 
