@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Sign Up for C-Notes"
+title: "Sign Up for The C-Notes"
 permalink: /signup/
 ---
 
