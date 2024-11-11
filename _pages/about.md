@@ -35,10 +35,6 @@ I'm currently "Head of Copy Operations" at Tried and True Media.
 * _"Colin’s support helped us build from nothing to a list of 32,000 in just two months."_ <br/> - **Ocean Robbins**
 * _"You are always a brain worth tapping into."_ <br/> - **Brian Kurtz**
 
-## Podcast & Virtual Event Appearances
-
-I have spoken on podcasts and at virtual events sharing my expertise as a marketer, copywriter, and freelancer. Appearances include AWAI Bootcamps, Kevin Roger's _Copy Chief Radio Podcast_, and Alex Cattoni's _Copy Posse_. If you'd like me to speak at your event or on your podcast, please email me directly at colin [at] colincopy [dot] com with your audience size and per episode downloads.
-
 ## Get Random Updates from Me
 
 I write stuff to an email list at underpromised, irregular levels. You might get something one month, or nothing at all for long stretches of time. If you'd like to get these emails, you can [sign up here](http://notes.colinchung.com/signup/).
